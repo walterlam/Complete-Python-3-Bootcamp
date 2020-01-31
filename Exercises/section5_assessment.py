@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 21 12:27:16 2020
-Section 5: Python Statements Test
-@author: walter
-"""
-
 '''
 Q1:
 Use for, .split(), and if to create a Statement that will 
