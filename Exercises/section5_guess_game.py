@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 21 15:12:20 2020
-Section 5: Guessing Game Challenge
-@author: walter
-"""
-
 '''
 Guessing Game Challenge
 Let's use while loops to create a guessing game.
