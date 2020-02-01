@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb  1 20:41:15 2020
-Section 6: Functions Homework 
-@author: chakwalam
-"""
-
 import math
 def vol(rad):
     '''
