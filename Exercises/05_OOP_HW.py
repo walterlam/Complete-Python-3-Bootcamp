@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 10 00:32:39 2020
-
-@author: walte
-"""
-
 class Line():
     def __init__(self,coor1,coor2):
         self.coor1 = coor1
