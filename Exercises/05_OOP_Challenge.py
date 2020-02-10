@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 10 10:09:52 2020
-OOP Challenge
-@author: walter
-"""
+# 05 OOP Challenge
 
 '''
 For this challenge, create a bank account class that has two attributes:
