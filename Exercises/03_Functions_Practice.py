@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 31 14:30:24 2020
-
-Section 6 Functions Practice
-
-@author: walter
-"""
-
 def lesser_of_two_evens(a,b):
     '''
     returns the lesser of two given numbers if both numbers are even, but 
