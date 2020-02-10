@@ -1,3 +1,5 @@
+# 02 Guessing Game with Guidelines
+
 '''
 Guessing Game Challenge
 Let's use while loops to create a guessing game.
