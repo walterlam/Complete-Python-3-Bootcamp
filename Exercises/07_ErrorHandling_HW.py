@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 13 22:52:46 2020
-
-@author: walte
-"""
-
 # Q1
 try:
     for i in ['a','b','c']:
